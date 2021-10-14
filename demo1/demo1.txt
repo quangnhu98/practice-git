@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a demo1 person 2 edited
+=======
+this is a demo1 - person 1 edited
+>>>>>>> 1943a6819e4dccded608f8e389e1798132115fe6
